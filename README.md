@@ -33,10 +33,17 @@ This project was created to better understand **manual string handling, dynamic 
 ## 📂 Project Structure
 
 - `Cstrings.h`: Header file containing the class definition and method prototypes.
+## Function Prototypes
+
+![Function Prototypes](Function.png)
+---
+
 - `Cstrings.cpp`: Implementation file containing the logic for the class methods.
 - `main.cpp`: A comprehensive test driver that simulates real-world data scenarios.
 
 ---
+
+
 
 ## Implemented Functions
 
