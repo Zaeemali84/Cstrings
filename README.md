@@ -35,7 +35,7 @@ This project was created to better understand **manual string handling, dynamic 
 - `Cstrings.h`: Header file containing the class definition and method prototypes.
 ## Function Prototypes
 
-![Function Prototypes](Function.png)
+![Function Prototypes](Functions.png)
 ---
 
 - `Cstrings.cpp`: Implementation file containing the logic for the class methods.
