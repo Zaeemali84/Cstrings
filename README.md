@@ -25,11 +25,11 @@ This project was created to better understand **manual string handling, dynamic 
 
 ## Function Prototypes
 
-![Functions](Funcions.png)
+![Functions](Functions.png)
 
 ## Example Output
 
-![Output Screen](Outpt.png)
+![Output Screen](Output.png)
 
 ## Implemented Functions
 
