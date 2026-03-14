@@ -15,21 +15,6 @@ This project was created to better understand **manual string handling, dynamic 
 
 ---
 
-## 🛠️ Features
-
-### Core Operations
-* **Search:** `find(char)` and `find(char*)` to locate characters or substrings.
-* **Modification:** `insert()`, `remove()`, and `replace()` (supports char-to-char and string-to-string).
-* **Cleaning:** `trim()`, `trimLeft()`, and `trimRight()` to remove whitespace.
-* **Slicing:** `left()`, `right()`, and `SubString()` for extracting parts of a string.
-
-### Transformation & Utility
-* **Case Control:** `makeUpper()` and `makeLower()`.
-* **Ordering:** `reverse()`.
-* **Access:** `at(index)` for safe character access and `getLength()` for size tracking.
-
----
-
 ## 📂 Project Structure
 
 - `Cstrings.h`: Header file containing the class definition and method prototypes.
@@ -90,33 +75,6 @@ This project was created to better understand **manual string handling, dynamic 
 - Concatenation operator (`+`)
 - Equality comparison (`==`)
 - Stream output (`<<`)
-
----
-
-## Example Usage
-
-```cpp
-#include "Cstrings.h"
-#include <iostream>
-
-int main()
-{
-    Cstring s1("Hello");
-    Cstring s2(" World");
-
-    Cstring result = s1 + s2;
-
-    std::cout << result << std::endl;
-
-    return 0;
-}
-```
-
-Output:
-
-```
-Hello World
-```
 
 ---
 
